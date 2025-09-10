@@ -2,6 +2,8 @@ import time
 
 print('BIENVENUE SUR VOTRE BANQUE')
 
+sold = 100
+
 createname = input('Cree votre nom : ')
 createmdp = input('Cree mdp : ')
 
@@ -23,7 +25,7 @@ while mdp != createmdp:
      if mdp == createmdp:
         print("Merci Bienvenue")
 
-sold = 100
+
 
 
 if sold != 0:
