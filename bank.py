@@ -26,8 +26,6 @@ while mdp != createmdp:
         print("Merci Bienvenue")
 
 
-
-
 if sold != 0:
      print('vous avez ' + str(sold) )
 while sold != 1:
