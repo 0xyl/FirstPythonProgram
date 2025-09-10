@@ -52,7 +52,7 @@ while sold != 1:
      else:
           print('erreur')
 
-     print('Il vous reste ' + str(sold)  )
+     print('Il vous reste ' + str(sold) )
 
 print('Vous avez plus assez merci de vous reconnectez quand vous aurez assé !')
           
